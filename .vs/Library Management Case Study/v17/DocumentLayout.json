@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\data\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Book.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Book.cs",
+              "RelativeToolTip": "Data\\Models\\Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:35:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyAppDbContext.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\MyAppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyAppDbContext.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\MyAppDbContext.cs",
+              "RelativeToolTip": "Data\\MyAppDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:28:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:28:38.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
