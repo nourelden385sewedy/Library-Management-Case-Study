@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Library Management Case Study")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea9b7bba80046eb63cffb3de082828600459b30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Library Management Case Study")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Library Management Case Study")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

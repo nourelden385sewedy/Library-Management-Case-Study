@@ -1,46 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\",
+  "WorkspaceRootPath": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\data\\models\\membershipcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\models\\membershipcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\data\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\data\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\repos\\authorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:repos\\authorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\data\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\repos\\borrowingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:repos\\borrowingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\school\\download study seniors first semster\\web api\\projects\\library management case study\\repos\\membershipcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:repos\\membershipcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\dtos\\bookdtos\\recommendedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:dtos\\bookdtos\\recommendedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\repos\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:repos\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\data\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:data\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|d:\\programming languages\\web api\\library-management-case-study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4FBCD3-F154-4074-A5A7-456999B6AE56}|Library Management Case Study.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,145 +49,125 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Book.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Book.cs",
-              "RelativeToolTip": "Data\\Models\\Book.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAEwBkAAAArAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:10:37.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Controllers\\BookController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAmwE4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:10:34.688Z",
+              "WhenOpened": "2025-10-14T06:53:28.191Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MembershipCard.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\MembershipCard.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\MembershipCard.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\MembershipCard.cs*",
-              "RelativeToolTip": "Data\\Models\\MembershipCard.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAAvAAAAAAAAAA==",
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAASwDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:10:31.229Z",
+              "WhenOpened": "2025-10-14T08:08:41.544Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Author.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Author.cs*",
-              "RelativeToolTip": "Data\\Models\\Author.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA0AAAAaAAAAAAAAAA==",
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookDtos\\CreateBookDto.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "RelativeToolTip": "DTOs\\BookDtos\\CreateBookDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:10:24.462Z",
+              "WhenOpened": "2025-10-14T08:09:08.881Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Borrowing.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Borrowing.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Borrowing.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Data\\Models\\Borrowing.cs",
-              "RelativeToolTip": "Data\\Models\\Borrowing.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:10:14.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MembershipCard.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\MembershipCard.cs",
-              "RelativeDocumentMoniker": "Repos\\MembershipCard.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\MembershipCard.cs",
-              "RelativeToolTip": "Repos\\MembershipCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:09:57.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryRepo.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\CategoryRepo.cs",
-              "RelativeDocumentMoniker": "Repos\\CategoryRepo.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\CategoryRepo.cs",
-              "RelativeToolTip": "Repos\\CategoryRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:09:54.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BorrowingRepo.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\BorrowingRepo.cs",
-              "RelativeDocumentMoniker": "Repos\\BorrowingRepo.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\BorrowingRepo.cs",
-              "RelativeToolTip": "Repos\\BorrowingRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:09:48.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BookRepo.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\BookRepo.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Repos\\BookRepo.cs",
               "RelativeDocumentMoniker": "Repos\\BookRepo.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\BookRepo.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Repos\\BookRepo.cs",
               "RelativeToolTip": "Repos\\BookRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:09:41.407Z",
+              "WhenOpened": "2025-10-14T09:17:52.309Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AuthorRepo.cs",
-              "DocumentMoniker": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\AuthorRepo.cs",
-              "RelativeDocumentMoniker": "Repos\\AuthorRepo.cs",
-              "ToolTip": "D:\\School\\Download Study Seniors First Semster\\Web API\\Projects\\Library Management Case Study\\Repos\\AuthorRepo.cs",
-              "RelativeToolTip": "Repos\\AuthorRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Repos\\Interfaces\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IBookRepo.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Repos\\Interfaces\\IBookRepo.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IBookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:09:38.861Z",
+              "WhenOpened": "2025-10-14T09:18:07.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecommendedBookDto.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\DTOs\\BookDtos\\RecommendedBookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookDtos\\RecommendedBookDto.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\DTOs\\BookDtos\\RecommendedBookDto.cs",
+              "RelativeToolTip": "DTOs\\BookDtos\\RecommendedBookDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:14:57.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookDtos\\BookDto.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeToolTip": "DTOs\\BookDtos\\BookDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:14:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Data\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Borrowing.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Data\\Models\\Borrowing.cs",
+              "RelativeToolTip": "Data\\Models\\Borrowing.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:54:10.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyAppDbContext.cs",
+              "DocumentMoniker": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Data\\MyAppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyAppDbContext.cs",
+              "ToolTip": "D:\\Programming languages\\Web API\\Library-Management-Case-Study\\Data\\MyAppDbContext.cs",
+              "RelativeToolTip": "Data\\MyAppDbContext.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:43:23.531Z",
               "EditorCaption": ""
             }
           ]

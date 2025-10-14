@@ -6,5 +6,7 @@ namespace Library_Management_Case_Study.Repos.Interfaces
     public interface IBookRepo : IGenericRepo<Book>
     {
         Task<IEnumerable<Book>> GetAllAvailableBooksAsync();
+
+        Task<IEnumerable<Book>> GetRecommendedBooksAsync(int id);
     }
 }

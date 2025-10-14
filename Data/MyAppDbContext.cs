@@ -61,14 +61,17 @@ namespace Library_Management_Case_Study.Data
             );
 
             modelBuilder.Entity<Book>().HasData(
-                new Book { Id = 1, Title = "Science 1", Description = "", PublishDate = new DateTime(2025, 10, 10), Copies = 10, CategoryId = 1}, 
-                new Book { Id = 2, Title = "History 1", Description = "", PublishDate = new DateTime(2025, 10, 10), Copies = 15, CategoryId = 2}, 
-                new Book { Id = 3, Title = "Self-Improvement", Description = "", PublishDate = new DateTime(2025, 10, 10), Copies = 5, CategoryId = 3}, 
-                new Book { Id = 4, Title = "Math", Description = "", PublishDate = new DateTime(2025, 10, 10), Copies = 2, CategoryId = 4}, 
-                new Book { Id = 5, Title = "Fiction", Description = "", PublishDate = new DateTime(2025, 10, 10), Copies = 13, CategoryId = 5}, 
-                new Book { Id = 6, Title = "Science 2", Description = "", PublishDate = new DateTime(2025, 10, 10), Copies = 30, CategoryId = 1}, 
-                new Book { Id = 7, Title = "History 2", Description = "", PublishDate = new DateTime(2025, 10, 10), Copies = 50, CategoryId = 2} 
+                new Book { Id = 1, Title = "Science 1", Description = "Description Des", PublishDate = new DateTime(2025, 10, 10), Copies = 10, CategoryId = 1}, 
+                new Book { Id = 2, Title = "History 1", Description = "Description Des", PublishDate = new DateTime(2026, 10, 10), Copies = 15, CategoryId = 2}, 
+                new Book { Id = 3, Title = "Self-Improvement", Description = "Description Des", PublishDate = new DateTime(2020, 10, 10), Copies = 5, CategoryId = 3}, 
+                new Book { Id = 4, Title = "Math", Description = "Description Des", PublishDate = new DateTime(2024, 10, 10), Copies = 2, CategoryId = 4}, 
+                new Book { Id = 5, Title = "Fiction", Description = "Description Des", PublishDate = new DateTime(2021, 10, 10), Copies = 13, CategoryId = 5}, 
+                new Book { Id = 6, Title = "Science 2", Description = "Description Des", PublishDate = new DateTime(2022, 10, 10), Copies = 30, CategoryId = 1}, 
+                new Book { Id = 7, Title = "History 2", Description = "Description Des", PublishDate = new DateTime(2023, 10, 10), Copies = 50, CategoryId = 2} 
             );
+
+            
+
 
         }
 

@@ -5,9 +5,6 @@ namespace Library_Management_Case_Study.DTOs.BookDtos
 {
     public class CreateBookDto
     {
-        [Key]
-        public int Id { get; set; }
-
         [Required] // Unique
         public string Title { get; set; } = null!;
 

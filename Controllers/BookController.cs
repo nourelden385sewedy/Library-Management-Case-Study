@@ -19,7 +19,7 @@ namespace Library_Management_Case_Study.Controllers
             _authorRepo = authorRepo;
         }
 
-        [HttpGet]
+        [HttpGet] // Done
         public async Task<IActionResult> GetAllBooks()
         {
             var b = await _bookRepo.GetAllAvailableBooksAsync();
@@ -46,7 +46,30 @@ namespace Library_Management_Case_Study.Controllers
             return Ok(books);
         }
 
-        [HttpPost]
+
+        [HttpGet("/recommended/{id}")]
+        public async Task<IActionResult> GetRecommendedBooks(int id)
+        {
+            var recommended = await _bookRepo.GetRecommendedBooksAsync(id);
+
+            if (recommended.Count() == 0)
+                return NotFound("There isn't any");
+
+            var RecBooks = recommended.Select(b => new RecommendedBookDto
+            {
+                Id = b.Id,
+                Title = b.Title,
+                Description = b.Description,
+                PublishDate = b.PublishDate,
+                Copies = b.Copies,
+                Category = b.Category.Name
+            }).ToList();
+
+            return Ok(RecBooks);
+        }
+
+
+        [HttpPost] // Done
         public async Task<IActionResult> CreateBook(CreateBookDto dto)
         {
             if (dto == null)

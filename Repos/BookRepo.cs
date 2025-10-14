@@ -19,5 +19,30 @@ namespace Library_Management_Case_Study.Repos
                 .OrderBy(b => b.PublishDate)
                 .ToListAsync();
         }
+
+        public async Task<IEnumerable<Book>> GetRecommendedBooksAsync(int id)
+        {
+
+            var book = await _context.Books
+                .FirstOrDefaultAsync(b => b.Id == id);
+
+            var authorsIds = book.Authors
+                .Select(v => v.Id).ToList();
+
+            var recommended = await _context.Books
+                .Include(b => b.Category)
+                .Where(b => b.Id != id && (b.CategoryId == book.CategoryId || b.Authors.Any(x => authorsIds.Contains(x.Id))))
+                .ToListAsync();
+
+            return recommended;
+
+                //var books = await _context.Books
+                //.Include(b => b.Category)
+                //.Include(b => b.Authors)
+
+            
+        }
+
+
     }
 }

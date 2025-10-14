@@ -1,7 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Library_Management_Case_Study.Data.Models
 {
+    //[Table("Borrowing")]
     public class Borrowing
     {
         [Key]
