@@ -32,7 +32,7 @@ namespace Library_Management_Case_Study.Data
             modelBuilder.Entity<Book>()
                 .HasMany(b => b.Authors)
                 .WithMany(b => b.Books)
-                .UsingEntity(h => h.ToTable("BooksAuthors"));
+                .UsingEntity(h => h.ToTable("AuthorBook"));
 
             modelBuilder.Entity<User>()
                 .HasOne(b => b.MembershipCard)
@@ -70,8 +70,20 @@ namespace Library_Management_Case_Study.Data
                 new Book { Id = 7, Title = "History 2", Description = "Description Des", PublishDate = new DateTime(2023, 10, 10), Copies = 50, CategoryId = 2} 
             );
 
-            
 
+            modelBuilder.Entity("AuthorBook").HasData(
+                new { AuthorsId = 1 , BooksId = 1},
+                new { AuthorsId = 5 , BooksId = 1},
+                new { AuthorsId = 2 , BooksId = 2},
+                new { AuthorsId = 4 , BooksId = 2},
+                new { AuthorsId = 2 , BooksId = 3},
+                new { AuthorsId = 7 , BooksId = 4},
+                new { AuthorsId = 8 , BooksId = 4},
+                new { AuthorsId = 9 , BooksId = 5},
+                new { AuthorsId = 10, BooksId = 6 },
+                new { AuthorsId = 3 , BooksId = 6},
+                new { AuthorsId = 6 , BooksId = 7 }
+            );
 
         }
 

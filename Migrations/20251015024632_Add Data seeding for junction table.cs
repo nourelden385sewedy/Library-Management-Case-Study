@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Library_Management_Case_Study.Migrations
 {
     /// <inheritdoc />
-    public partial class Fixtablenames : Migration
+    public partial class AddDataseedingforjunctiontable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -101,7 +101,7 @@ namespace Library_Management_Case_Study.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "BooksAuthors",
+                name: "AuthorBook",
                 columns: table => new
                 {
                     AuthorsId = table.Column<int>(type: "int", nullable: false),
@@ -109,15 +109,15 @@ namespace Library_Management_Case_Study.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_BooksAuthors", x => new { x.AuthorsId, x.BooksId });
+                    table.PrimaryKey("PK_AuthorBook", x => new { x.AuthorsId, x.BooksId });
                     table.ForeignKey(
-                        name: "FK_BooksAuthors_Author_AuthorsId",
+                        name: "FK_AuthorBook_Author_AuthorsId",
                         column: x => x.AuthorsId,
                         principalTable: "Author",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_BooksAuthors_Books_BooksId",
+                        name: "FK_AuthorBook_Books_BooksId",
                         column: x => x.BooksId,
                         principalTable: "Books",
                         principalColumn: "Id",
@@ -196,11 +196,34 @@ namespace Library_Management_Case_Study.Migrations
                     { 7, 2, 50, "Description Des", new DateTime(2023, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified), "History 2" }
                 });
 
+            migrationBuilder.InsertData(
+                table: "AuthorBook",
+                columns: new[] { "AuthorsId", "BooksId" },
+                values: new object[,]
+                {
+                    { 1, 1 },
+                    { 2, 2 },
+                    { 2, 3 },
+                    { 3, 6 },
+                    { 4, 2 },
+                    { 5, 1 },
+                    { 6, 7 },
+                    { 7, 4 },
+                    { 8, 4 },
+                    { 9, 5 },
+                    { 10, 6 }
+                });
+
             migrationBuilder.CreateIndex(
                 name: "IX_Author_Name",
                 table: "Author",
                 column: "Name",
                 unique: true);
+
+            migrationBuilder.CreateIndex(
+                name: "IX_AuthorBook_BooksId",
+                table: "AuthorBook",
+                column: "BooksId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Books_CategoryId",
@@ -212,11 +235,6 @@ namespace Library_Management_Case_Study.Migrations
                 table: "Books",
                 column: "Title",
                 unique: true);
-
-            migrationBuilder.CreateIndex(
-                name: "IX_BooksAuthors_BooksId",
-                table: "BooksAuthors",
-                column: "BooksId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Borrowings_BookId",
@@ -251,7 +269,7 @@ namespace Library_Management_Case_Study.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "BooksAuthors");
+                name: "AuthorBook");
 
             migrationBuilder.DropTable(
                 name: "Borrowings");

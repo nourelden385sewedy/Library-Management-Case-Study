@@ -34,7 +34,64 @@ namespace Library_Management_Case_Study.Migrations
 
                     b.HasIndex("BooksId");
 
-                    b.ToTable("BooksAuthors", (string)null);
+                    b.ToTable("AuthorBook", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            AuthorsId = 1,
+                            BooksId = 1
+                        },
+                        new
+                        {
+                            AuthorsId = 5,
+                            BooksId = 1
+                        },
+                        new
+                        {
+                            AuthorsId = 2,
+                            BooksId = 2
+                        },
+                        new
+                        {
+                            AuthorsId = 4,
+                            BooksId = 2
+                        },
+                        new
+                        {
+                            AuthorsId = 2,
+                            BooksId = 3
+                        },
+                        new
+                        {
+                            AuthorsId = 7,
+                            BooksId = 4
+                        },
+                        new
+                        {
+                            AuthorsId = 8,
+                            BooksId = 4
+                        },
+                        new
+                        {
+                            AuthorsId = 9,
+                            BooksId = 5
+                        },
+                        new
+                        {
+                            AuthorsId = 10,
+                            BooksId = 6
+                        },
+                        new
+                        {
+                            AuthorsId = 3,
+                            BooksId = 6
+                        },
+                        new
+                        {
+                            AuthorsId = 6,
+                            BooksId = 7
+                        });
                 });
 
             modelBuilder.Entity("Library_Management_Case_Study.Data.Models.Author", b =>

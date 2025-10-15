@@ -291,3 +291,4 @@ D:\Programming languages\Web API\Library-Management-Case-Study\obj\Debug\net8.0\
 D:\Programming languages\Web API\Library-Management-Case-Study\obj\Debug\net8.0\Library Management Case Study.pdb
 D:\Programming languages\Web API\Library-Management-Case-Study\obj\Debug\net8.0\Library Management Case Study.genruntimeconfig.cache
 D:\Programming languages\Web API\Library-Management-Case-Study\obj\Debug\net8.0\ref\Library Management Case Study.dll
+D:\School\Download Study Seniors First Semster\Web API\Projects\Library Management Case Study\obj\Debug\net8.0\Library Management Case Study.sourcelink.json
